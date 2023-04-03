@@ -18,8 +18,5 @@
         "DELETE"
       ]
     }
-  ],
-  "env": {
-    "NODE_ENV": "production"
-  }
+  ]
 }
